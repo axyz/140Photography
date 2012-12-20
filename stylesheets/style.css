@@ -4,9 +4,6 @@ body {
 .row {
   width: 2560px;
 }
-.top-bar {
-  background-color: #2a333c;
-}
 .top-bar .name h1 {
   font-family: "Oswald";
 }
