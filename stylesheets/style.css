@@ -1,0 +1,26 @@
+body {
+  background-color: whiteSmoke;
+}
+.row {
+  width: 2560px;
+}
+.top-bar {
+  background-color: #2a333c;
+}
+.top-bar .name h1 {
+  font-family: "Oswald";
+}
+.top-bar .name h1 a {
+  color: #e36b23 !important;
+}
+.nav-bar {
+  background: #2a333c !important;
+}
+.nav-bar li :hover {
+  background: #2ba6cb !important;
+}
+#deck {
+  -webkit-box-shadow: 2px 3px 5px #888 !important;
+  -moz-box-shadow: 2px 3px 5px #888 !important;
+  box-shadow: 2px 3px 5px #888 !important;
+}
