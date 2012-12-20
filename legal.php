@@ -3,7 +3,8 @@
 <?php include("php/meta.php"); meta("Photography"); ?>  
 <?php include("nav.php"); ?><br/>
 <div class="row">
-  <h1><i class="icon-info-sign icon-large">Condizioni di servizio</i><br/>
+  <div class="twelve columns">
+    <h1>Condizioni di servizio</h1><br/>
     <p>Queste Regole di Servizio ("Regole") regolano l'accesso e l'utilizzo dei servizi e siti web di 140Photography (i "Servizi"), e qualsiasi informazione, testo, grafica, foto o altro materiale caricato, scaricato o che appaia sui Servizi (collettivamente denominati "Contenuti").</p>
     <p>L'accesso e l'utilizzo dei Servizi è condizionato all'accettazione ed il rispetto di tali Regole. Accedendo o utilizzando i servizi, accetti di essere vincolato da queste Regole.</p>
     <h2>Condizioni di base</h2>
@@ -42,6 +43,6 @@
     <p>Queste Condizioni, le regole di 140Photography e la nostra normativa sulla Privacy, sono il completo ed esclusivo accordo tra 140Photography e l'utente riguardo i Servizi (escludendo ogni servizio per cui c'è un accordo a parte con 140Photography, che è esplicitamente in aggiunta o in sostituzione delle presenti Condizioni), e queste Condizioni annullano e sostituiscono qualsiasi precedente accordo tra 140Photography e l'utente per quanto riguarda i Servizi.</p>
     <p>Potremmo modificare queste Condizioni di tanto in tanto, la versione più recente sarà sempre disponibile all'indirizzo 140Photography.it/condizioni_di_servizio. Qualora la revisione, a nostra unica discrezione, sia da considerarsi considerevole, te lo comunicheremo tramite un aggiornamento sull'utenza @140Photography o via email all'indirizzo associato alla tua utenza.</p>
     <p>Continuando ad accedere o ad utilizzare i Servizi dopo che tali modifiche siano diventate effettive, accetti di essere vincolato alle nuove Condizioni.</p>
-  </h1>
+  </div>
 </div><?php include("footer.php"); ?>
 <?php include("tail.php"); ?>
