@@ -15,4 +15,3 @@
 
 
 /* THANKS */
-	placehold.it: http://placehold.it
