@@ -2315,7 +2315,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 .top-bar > ul .name h1 a {
   font-weight: bold;
   padding: 0 33px;
-  font-size: 17px !important;
+  font-size: 27px !important;
 }
 /* line 36, ../../../../../Library/Ruby/Gems/1.8/gems/zurb-foundation-3.2.3/scss/foundation/components/modules/_topbar.scss */
 .top-bar > ul .name img {
