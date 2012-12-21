@@ -10,7 +10,7 @@
         <li id="contactFormTab" class="active">
           <div class="row collapse">
             <h3>Get in Touch!</h3>
-            <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you. We love getting email all day <em>all day</em>.</p>
+            <p>We'd love to hear from you. You can reach out to us with a message and one of our awesome team members will get back to you.</p>
             <div class="two columns">
               <label class="inline">Your Name</label>
             </div>
