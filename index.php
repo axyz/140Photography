@@ -13,9 +13,18 @@
       </form>
     </div>
   </div>
-  <div id="deck" class="six columns panel">
+  <div id="deck" class="six columns">
     <h1 id="section-title"></h1>
   </div>
-  <div id="links" class="three columns"></div>
+  <div id="links" class="three columns panel">
+    <h5><i class="icon-link"></i>&nbsp;link</h5>
+    <ul class="side-nav">
+      <li><a href="#"><img src="images/adorama.png" width="200"/></a></li>
+      <li><a href="#"><img src="images/natgeo.png" width="200"/></a></li>
+      <li><a href="#"><img src="images/eikona.png" width="200"/></a></li>
+      <li><a href="#"><img src="images/nyip.jpeg" width="200"/></a></li>
+      <li><a href="#"><img src="images/officine.png" width="200"/></a></li>
+    </ul>
+  </div>
 </div><?php include("footer.php"); ?>
 <?php include("tail.php"); ?>

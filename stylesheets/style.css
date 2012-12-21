@@ -16,8 +16,3 @@ body {
 .nav-bar li :hover {
   background: #2ba6cb !important;
 }
-#deck {
-  -webkit-box-shadow: 2px 3px 5px #888 !important;
-  -moz-box-shadow: 2px 3px 5px #888 !important;
-  box-shadow: 2px 3px 5px #888 !important;
-}
