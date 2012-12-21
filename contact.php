@@ -1,6 +1,6 @@
 
 <?php include("header.php"); ?> 
-<?php include("php/meta.php"); meta("Photography"); ?>  
+<?php include("php/meta.php"); meta("Contact Us"); ?>  
 <?php include("nav.php"); ?>
 <?php include("php/contact.php"); ?><br/>
 <div class="row">

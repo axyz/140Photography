@@ -1,6 +1,6 @@
 
 <?php include("header.php"); ?> 
-<?php include("php/meta.php"); meta("Photography"); ?>  
+<?php include("php/meta.php"); meta("About 140Photography"); ?>  
 <?php include("nav.php"); ?><br/>
 <div class="row">
   <div class="twelve columns">
