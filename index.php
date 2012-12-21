@@ -15,7 +15,7 @@
   </div>
   <div id="deck" class="six columns">
     <h1 id="section-title"></h1>
-  </div>
+  </div><br/><br/>
   <div id="links" class="three columns panel">
     <h5><i class="icon-link"></i>&nbsp;link</h5>
     <ul class="side-nav">
