@@ -77,7 +77,7 @@
 .jta-tweet-a,
 .twitter-anywhere-user
 {
-    color: #900;
+    color: #e36b23;
 	text-decoration: none;
 }
 
@@ -85,7 +85,7 @@
 .jta-tweet-a:hover,
 .twitter-anywhere-user:hover
 {
-    color: #900;
+    color: #e36b23;
 	text-decoration: underline;
 }
 

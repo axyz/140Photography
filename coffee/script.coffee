@@ -1,5 +1,5 @@
 loadTweets = (title, div, users, list, n) ->
-  $("#deck").html "<h1>" + title + "</h1>"
+  $("#deck").html "<h2>" + title + "</h2>"
   $("#deck").append "<div id=\"tweetFeed\"></div>"
   $(div).html ""
   $(div).jTweetsAnywhere
