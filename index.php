@@ -1,17 +1,17 @@
 
 <?php include("header.php"); ?>
 <?php include("php/meta.php"); meta("140Photography"); ?>
-<?php include("nav.php"); ?><br/>
+<?php include("nav.php"); ?><br/><br/><br/><br/><br/>
 <div id="content" class="row">
   <div id="menu" class="three columns hide-for-small">
-    <ul class="tabs vertical"></ul>
+    <ul data-bind="foreach: sections" class="tabs vertical">
+      <li data-bind="attr: {'id': title}, click: $root.loadList"><a href="#" data-bind="text: title"></a></li>
+    </ul>
   </div>
   <div id="menu-mobile" class="three columns show-for-small">
-    <div class="select">
-      <form>
-        <select></select>
-      </form>
-    </div>
+    <form>
+      <select data-bind="options: sections, optionsText: 'title', value: $root.activeSection"></select>
+    </form>
   </div>
   <div id="deck" class="six columns">
     <h2 id="section-title"></h2>

@@ -3,15 +3,20 @@
 <?php include("nav.php"); ?>
 
 br
+br
+br
+br
+br
   
 #content.row
 	#menu.three.columns.hide-for-small
-		ul.tabs.vertical
+		ul.tabs.vertical(data-bind="foreach: sections")
+			li(data-bind="attr: {'id': title}, click: $root.loadList")
+				a(href="#", data-bind="text: title")
 
 	#menu-mobile.three.columns.show-for-small
-		.select
-			form
-				select
+		form
+			select(data-bind="options: sections, optionsText: 'title', value: $root.activeSection")
 
 	#deck.six.columns
 		h2#section-title

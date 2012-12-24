@@ -39,9 +39,9 @@
 	
 
   <!-- Application Javascript, safe to override -->
-  <script src="<?php echo $basedir;?>javascripts/jquery.grid-a-licious.min.js"></script>
   <script src="<?php echo $basedir;?>javascripts/jquery.jtweetsanywhere-1.3.1.min.js"></script>
-  <script src="<?php echo $basedir;?>javascripts/queries.js"></script>
+  <script src="<?php echo $basedir;?>javascripts/sammy.min.js"></script>
+  <script src="<?php echo $basedir;?>javascripts/knockout-2.2.0.js"></script>
   <script src="<?php echo $basedir;?>javascripts/foundation/app.js"></script>
   <script src="<?php echo $basedir;?>javascripts/script.js"></script>
 </body>
