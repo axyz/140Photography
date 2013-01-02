@@ -16,7 +16,7 @@
   <div id="deck" class="six columns">
     <h2 id="section-title"></h2>
   </div><br/><br/>
-  <div id="links" class="three columns panel">
+  <div id="links" class="three columns side-nav hide-for-small">
     <h5><i class="icon-link"></i>&nbsp;link</h5>
     <ul class="side-nav">
       <li><a href="#"><img src="images/adorama.png" width="200"/></a></li>
