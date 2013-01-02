@@ -1,6 +1,6 @@
 <nav class="top-bar fixed">
     <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>">140 photography</a></h1></li>
+      <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="<?php echo $basedir;?>/images/logo-56.png" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
