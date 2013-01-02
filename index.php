@@ -4,7 +4,7 @@
 <?php include("nav.php"); ?><br/>
 <div id="content" class="row">
   <div id="menu" class="three columns hide-for-small">
-    <ul class="tabs vertical"></ul>
+    <ul class="nav-bar vertical"></ul>
   </div>
   <div id="menu-mobile" class="three columns show-for-small">
     <div class="select">
