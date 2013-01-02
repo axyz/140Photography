@@ -2,7 +2,7 @@
 var loadTweets;
 
 loadTweets = function(title, div, users, list, n) {
-  $("#deck").html("<h2>" + title + "</h2>");
+  $("#deck").html("<h3>" + title + "</h3>");
   $("#deck").append("<div id=\"tweetFeed\"></div>");
   $(div).html("");
   return $(div).jTweetsAnywhere({
