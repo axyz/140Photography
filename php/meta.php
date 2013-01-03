@@ -1,6 +1,8 @@
 <?php
-function meta($title){
-	echo "<title>$title</title>
-		  </head>
-		  <body>";
+function meta($title, $description){
+	echo "
+	<title>$title</title>
+	<meta name='description' content='$description'>
+	</head>
+	<body>";
 }

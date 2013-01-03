@@ -1,6 +1,6 @@
 
 <?php include("header.php"); ?> 
-<?php include("php/meta.php"); meta("Terms Of Service"); ?>  
+<?php include("php/meta.php"); meta("Terms Of Service - 140Photography", "Twitter directory about photography and imaging related matters"); ?>  
 <?php include("nav.php"); ?><br/>
 <div class="row">
   <div class="twelve columns">
