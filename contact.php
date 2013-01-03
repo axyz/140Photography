@@ -37,7 +37,7 @@
     </form>
   </div>
   <div class="three columns">
-    <h5>Social</h5>
+    <h5>Social</h5><a href="http://twitter.com/140photography"><i class="icon-twitter-sign icon-large"></i></a></li>
   </div>
 </div><?php include("footer.php"); ?>
 <?php include("tail.php"); ?>
