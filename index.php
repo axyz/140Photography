@@ -29,6 +29,7 @@
       <li><a href="http://www.nyip.com/" target="_blank"><img src="images/nyip.jpeg" width="200"/></a></li>
       <li><a href="http://www.nationalgeographic.com/" target="_blank"><img src="images/natgeo.png" width="200"/></a></li>
       <li><a href="http://www.eikona.eu" target="_blank"><img src="images/eikona.png" width="200"/></a></li>
+      <li><a href="http://www.edelkrone.com/" target="_blank"><img src="images/edelkrone.png" width="200"/></a></li>
       <li><a href="http://officinefotografiche.org/" target="_blank"><img src="images/officine.png" width="200"/></a></li>
       <li><a href="http://www.adorama.com" target="_blank"><img src="images/adorama.png" width="200"/></a></li>
       <li><a href="http://www.worldpressphoto.org/" target="_blank"><img src="images/wpph.jpg" width="200"/></a></li>
