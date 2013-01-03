@@ -11,7 +11,7 @@
        
       Whe know that could be really hard to get oriented in the twitter universe, and not only for newcomers. Filtering and organizing the users per arguments is a solution in which we believe. 
     </p>
-    <p>	We hope you will find this website useful and ples do not esitate to contact us for any suggestion, we'd love to hear from you any bad or good news.</p>
+    <p>	We hope you will find this website useful and please do not esitate to contact us for any suggestion, we'd love to hear from you any bad or good news.</p>
   </div>
 </div><?php include("footer.php"); ?>
 <?php include("tail.php"); ?>
