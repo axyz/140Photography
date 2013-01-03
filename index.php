@@ -1,6 +1,6 @@
 
 <?php include("header.php"); ?>
-<?php include("php/meta.php"); meta("140Photography", "Twitter directory about photography and imaging related matters"); ?>
+<?php include("php/meta.php"); meta("140Photography - twitter photography", "Twitter directory about photography and imaging related matters"); ?>
 <?php include("nav.php"); ?><br/>
 <div id="content" class="row">
   <div id="menu" class="three columns hide-for-small">
