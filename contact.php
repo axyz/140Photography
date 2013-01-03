@@ -5,7 +5,7 @@
 <?php include("php/contact.php"); ?><br/>
 <div class="row">
   <div class="nine columns">
-    <form method="post" action="/140Photography/contact.php">
+    <form method="post" action="http://140Photography.com/contact.php">
       <ul class="tabs-content contained">
         <li id="contactFormTab" class="active">
           <div class="row collapse">
@@ -37,7 +37,7 @@
     </form>
   </div>
   <div class="three columns">
-    <h5>Social</h5><a href="http://twitter.com/140photography"><i class="icon-twitter-sign icon-large"></i></a></li>
+    <h5>Social</h5><a href="http://twitter.com/140photography" target="_blank"> <i class="icon-twitter-sign social-icon"></i></a>&nbsp;<a href="http://www.facebook.com/140ph" target="_blank"> <i class="icon-facebook-sign social-icon"></i></a>&nbsp;&nbsp;<a href="http://plus.google.com/u/0/b/115506636060602895618/115506636060602895618/posts" target="_blank"><i class="icon-google-plus-sign social-icon"></i></a>
   </div>
 </div><?php include("footer.php"); ?>
 <?php include("tail.php"); ?>

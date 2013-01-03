@@ -31,3 +31,9 @@ body {
   border: solid 2px #2a333c;
   padding: 5px;
 }
+.social-icon {
+  font-size: 2em;
+}
+#suggest {
+  padding: 0px 20px 1px;
+}

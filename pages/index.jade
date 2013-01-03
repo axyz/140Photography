@@ -7,38 +7,44 @@ br
 #content.row
 	#menu.three.columns.hide-for-small
 		ul.nav-bar.vertical
+		.panel.callout
+			h5 
+				a(href="#", onclick="location.href='contact.php';") SUGGEST USERS TO FOLLOW!
 
 	#menu-mobile.three.columns.show-for-small
 		.select
 			form
 				select
+		.row
+			#suggest.button(onclick="location.href='contact.php';")
+				h5 SUGGEST USERS TO FOLLOW!
 
-	#deck.six.columns
+	#deck.seven.columns
 		h2#section-title
 
 	br
 	br
 
-	#links.three.columns.side-nav.hide-for-small
-		h5
-			i.icon-link
-			| &nbsp;link
+	#links.two.columns.side-nav.hide-for-small
 		ul.side-nav
 			li
-				a(href="#")
-					img(src="images/adorama.png", width="200")
-			li
-				a(href="#")
-					img(src="images/natgeo.png", width="200")
-			li
-				a(href="#")
-					img(src="images/eikona.png", width="200")
-			li
-				a(href="#")
+				a(href="http://www.nyip.com/", target="_blank")
 					img(src="images/nyip.jpeg", width="200")
 			li
-				a(href="#")
+				a(href="http://www.nationalgeographic.com/", target="_blank")
+					img(src="images/natgeo.png", width="200")
+			li
+				a(href="http://www.eikona.eu", target="_blank")
+					img(src="images/eikona.png", width="200")
+			li
+				a(href="http://officinefotografiche.org/", target="_blank")
 					img(src="images/officine.png", width="200")
+			li
+				a(href="http://www.adorama.com", target="_blank")
+					img(src="images/adorama.png", width="200")
+			li
+				a(href="http://www.worldpressphoto.org/", target="_blank")
+					img(src="images/wpph.jpg", width="200")
   
 
 <?php include("footer.php"); ?>

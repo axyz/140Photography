@@ -3,7 +3,7 @@
 <?php include("nav.php"); ?>
 <?php include("php/contact.php"); ?>
 
-- var self = "/140Photography/contact.php"
+- var self = "http://140Photography.com/contact.php"
 
 br
 .row
@@ -54,7 +54,14 @@ br
   .three.columns
 
     h5 Social
-    <a href="http://twitter.com/140photography"><i class="icon-twitter-sign icon-large"></i></a></li>
+    a(href="http://twitter.com/140photography", target="_blank") 
+      i.icon-twitter-sign.social-icon
+    &nbsp;
+    a(href="http://www.facebook.com/140ph", target="_blank") 
+      i.icon-facebook-sign.social-icon
+    &nbsp;&nbsp;
+    a(href="http://plus.google.com/u/0/b/115506636060602895618/115506636060602895618/posts", target="_blank")
+      i.icon-google-plus-sign.social-icon
     
 
 
