@@ -30,7 +30,7 @@
           </div>
           <label>What's up?</label>
           <textarea rows="4" name="message" class="message"></textarea>
-          <input type="submit" name="submit" class="button radius button"/><?php if(isset($hasError)) { //If errors are found ?><br/><br/>
+          <input type="submit" name="submit" value="Send!" class="button radius button"/><?php if(isset($hasError)) { //If errors are found ?><br/><br/>
           <div class="alert-box alert">there was an error! check all the fields.<a class="close">&times;</a></div><?php } ?>
           <?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?><br/><br/>
           <div class="alert-box success">message sent!<a class="close">&times;</a></div><?php } ?>

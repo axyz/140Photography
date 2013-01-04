@@ -17,7 +17,7 @@
     </div>
     <div class="row">
       <div id="suggest" onclick="location.href='contact.php';" class="button">
-        <h5>ADD YOUR CONTENT!</h5>
+        <h5 style="color: #fff;">ADD YOUR CONTENT!</h5>
       </div>
     </div>
   </div>
