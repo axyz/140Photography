@@ -37,3 +37,14 @@ body {
 #suggest {
   padding: 0px 20px 1px;
 }
+@media (min-width: 941px) {
+  .top-bar ul > li a:not(.button) {
+    padding: 0 16px !important;
+  }
+}
+@media (max-width: 940px) {
+  .top-bar ul > li a:not(.button) {
+    height: 46px !important;
+    line-height: 46px !important;
+  }
+}
