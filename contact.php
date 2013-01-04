@@ -5,7 +5,7 @@
 <?php include("php/contact.php"); ?><br/>
 <div class="row">
   <div class="nine columns">
-    <form method="post" action="http://140Photography.com/contact.php">
+    <form method="post" action="contact.php">
       <ul class="tabs-content contained">
         <li id="contactFormTab" class="active">
           <div class="row collapse">
