@@ -6,7 +6,7 @@
   <div id="menu" class="three columns hide-for-small">
     <ul class="nav-bar vertical"></ul>
     <div class="panel callout">
-      <h5> <a href="#" onclick="location.href='contact.php';">SUGGEST USERS TO FOLLOW!</a></h5>
+      <h5> <a href="#" onclick="location.href='contact.php';">ADD YOUR CONTENT!</a></h5>
     </div>
   </div>
   <div id="menu-mobile" class="three columns show-for-small">
@@ -17,7 +17,7 @@
     </div>
     <div class="row">
       <div id="suggest" onclick="location.href='contact.php';" class="button">
-        <h5>SUGGEST USERS TO FOLLOW!</h5>
+        <h5>ADD YOUR CONTENT!</h5>
       </div>
     </div>
   </div>
