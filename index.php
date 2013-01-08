@@ -8,6 +8,8 @@
     <div class="panel callout">
       <h5> <a href="#" onclick="location.href='contact.php';">ADD YOUR CONTENT!</a></h5>
     </div>
+    <div style="margin-left:-10px;" data-href="http://www.facebook.com/140ph" data-width="200" data-height="76" data-show-faces="false" data-stream="false" data-header="false" class="fb-like-box"></div>
+    <div class="g-plusone"></div>
   </div>
   <div id="menu-mobile" class="three columns show-for-small">
     <div class="select">
@@ -19,6 +21,8 @@
       <div id="suggest" onclick="location.href='contact.php';" class="button">
         <h5 style="color: #fff;">ADD YOUR CONTENT!</h5>
       </div>
+      <div data-href="http://www.facebook.com/140ph" data-width="290" data-height="66" data-show-faces="false" data-stream="false" data-header="false" class="fb-like-box"></div>
+      <div data-size="tall" class="g-plusone"></div>
     </div>
   </div>
   <div id="deck" class="seven columns">

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html itemscope itemtype="http://schema.org/Article">
 <?php include("basedir.php"); ?>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
@@ -22,3 +22,13 @@
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css'>
+
+	<meta itemprop="name" content="140 Photography">
+	<meta itemprop="description" content="Twitter Photography Directory">
+	<meta itemprop="image" content="http://www.140photography.com/images/logo2-180.png">
+
+	<meta property="og:title" content="140 Photography" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://140photography.com" />
+	<meta property="og:image" content="http://www.140photography.com/images/logo2-180.png" />
+	<meta property="og:site_name" content="140 Photography" />
